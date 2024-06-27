@@ -1,0 +1,9 @@
+name: Tutorial
+version: '${project.version}'
+main: ru.sscorpionn.tutorial.Tutorial
+api-version: '1.21'
+commands:
+  гдея:
+    description: Пишет где вы находитесь
+  лох:
+    description: Убивает игрока
